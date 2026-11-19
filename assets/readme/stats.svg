@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="124" viewBox="0 0 880 124" role="img" aria-label="594 Apple XProtect rules run on demand. 301 automated tests. 13 languages. 0 trackers.">
+  <defs>
+    <linearGradient id="edge" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2f6fed"/>
+      <stop offset="50%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+      <animate attributeName="x1" values="0%;60%;0%" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="100%;160%;100%" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="num" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7fb0ff"/>
+      <stop offset="100%" stop-color="#c4a8ff"/>
+    </linearGradient>
+    <linearGradient id="fill" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0c1230"/>
+      <stop offset="100%" stop-color="#151040"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .n { font: 700 40px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: url(#num); }
+    .l { font: 500 13.5px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #b8c0e0; }
+  </style>
+  <g>
+    <rect x="2" y="2" width="208" height="120" rx="20" fill="url(#fill)" stroke="url(#edge)" stroke-width="1.5"/>
+    <text class="n" x="106" y="62" text-anchor="middle">594</text>
+    <text class="l" x="106" y="92" text-anchor="middle">Apple XProtect rules, all run</text>
+  </g>
+  <g>
+    <rect x="224" y="2" width="208" height="120" rx="20" fill="url(#fill)" stroke="url(#edge)" stroke-width="1.5"/>
+    <text class="n" x="328" y="62" text-anchor="middle">301</text>
+    <text class="l" x="328" y="92" text-anchor="middle">automated tests</text>
+  </g>
+  <g>
+    <rect x="446" y="2" width="208" height="120" rx="20" fill="url(#fill)" stroke="url(#edge)" stroke-width="1.5"/>
+    <text class="n" x="550" y="62" text-anchor="middle">13</text>
+    <text class="l" x="550" y="92" text-anchor="middle">languages</text>
+  </g>
+  <g>
+    <rect x="668" y="2" width="208" height="120" rx="20" fill="url(#fill)" stroke="url(#edge)" stroke-width="1.5"/>
+    <text class="n" x="772" y="62" text-anchor="middle">0</text>
+    <text class="l" x="772" y="92" text-anchor="middle">trackers, accounts or ads</text>
+  </g>
+</svg>

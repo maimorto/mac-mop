@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="76" viewBox="0 0 340 76" role="img" aria-label="Download Mac Mop for Mac. Free, macOS 14 or later, Apple silicon.">
+  <defs>
+    <linearGradient id="b" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2f6fed"/>
+      <stop offset="100%" stop-color="#7c4dff"/>
+      <animate attributeName="x1" values="0%;-40%;0%" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="336" height="72" rx="36" fill="url(#b)"/>
+  <rect x="2.75" y="2.75" width="334.5" height="70.5" rx="35.25" fill="none" stroke="#ffffff" stroke-opacity="0.28" stroke-width="1.5"/>
+  <g fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M52 24v22M43 38l9 9 9-9M40 53h24"/>
+  </g>
+  <text x="84" y="35" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#ffffff">Download for Mac</text>
+  <text x="84" y="55" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500" fill="#ffffff" fill-opacity="0.82">Free · macOS 14+ · Apple silicon</text>
+</svg>

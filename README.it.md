@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/app_icon.png" width="128" alt="Icona di Mac Mop">
+  <img src="assets/app_icon.png" width="112" alt="Icona di Mac Mop">
 </p>
 
 <h1 align="center">Mac Mop</h1>
@@ -10,27 +10,79 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/maimorto/mac-mop/releases/latest"><strong>Scarica</strong></a> ·
-  <a href="#cosa-fa">Cosa fa</a> ·
-  <a href="#come-protegge-i-tuoi-file">Sicurezza</a> ·
-  <a href="#privacy">Privacy</a> ·
-  <a href="#cosa-non-fa">Limiti</a> ·
-  <a href="README.md">English</a>
+  <a href="https://github.com/maimorto/mac-mop/releases/latest"><img src="assets/readme/download.svg" width="300" alt="Scarica Mac Mop per Mac. Gratis, macOS 14 o successivo, Apple silicon."></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/maimorto/mac-mop/releases/latest"><img src="https://img.shields.io/github/v/release/maimorto/mac-mop?label=versione&color=2f6fed" alt="Ultima versione"></a>
   <a href="https://github.com/maimorto/mac-mop/releases"><img src="https://img.shields.io/github/downloads/maimorto/mac-mop/total?label=download&color=2f6fed" alt="Download totali"></a>
-  <img src="https://img.shields.io/badge/macOS-14%2B-black" alt="macOS 14 o successivo">
-  <img src="https://img.shields.io/badge/lingue-13-black" alt="13 lingue">
-  <a href="LICENSE"><img src="https://img.shields.io/badge/licenza-BSD--3--Clause-black" alt="Licenza BSD 3-Clause"></a>
+  <a href="https://github.com/maimorto/mac-mop/stargazers"><img src="https://img.shields.io/github/stars/maimorto/mac-mop?label=stelle&color=7c4dff" alt="Stelle su GitHub"></a>
+  <img src="https://img.shields.io/badge/macOS-14%2B-0c1230" alt="macOS 14 o successivo">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/licenza-BSD--3--Clause-0c1230" alt="Licenza BSD 3-Clause"></a>
 </p>
 
 <p align="center">
-  <img src="assets/screenshots/it/cleanup.png" width="900" alt="La pagina Pulizia di Mac Mop dopo una scansione: ogni categoria ha una descrizione semplice e un'etichetta che dice Si ricrea da solo oppure Controlla prima">
+  <a href="#guardala">Schermate</a> ·
+  <a href="#installazione">Installazione</a> ·
+  <a href="#cosa-fa">Funzioni</a> ·
+  <a href="#nella-barra-dei-menu">Barra dei menu</a> ·
+  <a href="#come-protegge-i-tuoi-file">Sicurezza</a> ·
+  <a href="#privacy">Privacy</a> ·
+  <a href="README.md">English</a>
+</p>
+
+<p align="center">
+  <img src="assets/readme/it/hero.jpg" width="920" alt="La pagina Pulizia di Mac Mop in tema scuro dopo una scansione: ogni categoria ha una descrizione semplice e un'etichetta che dice Si ricrea da solo oppure Controlla prima">
+</p>
+
+<p align="center">
+  <img src="assets/readme/stats.svg" width="880" alt="594 regole XProtect di Apple eseguite su richiesta. 301 test automatici. 13 lingue. 0 tracciamenti, account o pubblicità.">
 </p>
 
 Molte app di pulizia mostrano un numero e un grande pulsante. Mac Mop mostra lo stesso numero e poi dice cosa c'è dietro: cos'è ogni gruppo di file, se macOS lo ricrea da solo e cosa cambia se lo togli. Tutto ciò che contiene dati tuoi parte deselezionato.
+
+## Guardala
+
+<table>
+<tr>
+<td width="50%"><img src="assets/readme/it/system-data.jpg" alt="La pagina Dati di sistema: il totale diviso tra macchine virtuali, dati delle app, video degli sfondi, modelli di Apple Intelligence e altro, ogni parte segnata come sicura, da controllare o protetta"></td>
+<td width="50%"><img src="assets/readme/it/space-lens.jpg" alt="Space Lens: una mappa a colori di una cartella in cui le sottocartelle più grandi sono i riquadri più grandi, con l'elenco degli elementi più grandi a destra"></td>
+</tr>
+<tr>
+<td><strong>I "Dati di sistema", aperti.</strong> Ogni parte è misurata sul tuo Mac e segnata come sicura, da controllare o protetta da macOS. Ogni byte è contato una volta sola, e la scansione successiva mostra cosa è cresciuto.</td>
+<td><strong>Dov'è finito il disco.</strong> Una mappa in diretta di qualsiasi cartella, più file grandi e vecchi, duplicati, snapshot di Time Machine e altro spazio che macOS nasconde.</td>
+</tr>
+<tr>
+<td width="50%"><img src="assets/readme/it/malware.jpg" alt="La pagina Malware: profondità della scansione da Rapida ad Approfondita, cosa ha fatto di recente XProtect di Apple e l'interruttore della scansione settimanale"></td>
+<td width="50%"><img src="assets/readme/it/apple-privacy.jpg" alt="La pagina Privacy Apple: interruttori per la pubblicità personalizzata e la condivisione dei dati di Siri, e lo spazio occupato dai modelli di Apple Intelligence"></td>
+</tr>
+<tr>
+<td><strong>Controlli antimalware.</strong> Tutte le regole XProtect di Apple già presenti sul tuo Mac (oggi 594), non solo gli hash dei file. In più: cosa parte all'avvio, la cronologia del Terminale e un avviso quando negli appunti c'è un comando da non incollare.</td>
+<td><strong>Interruttori della privacy.</strong> Cosa condividi con Apple per pubblicità, analisi e Siri, in una pagina. Cache e cronologia di sei browser, senza toccare password, cookie o estensioni wallet.</td>
+</tr>
+<tr>
+<td width="50%"><img src="assets/readme/it/maintenance.jpg" alt="La pagina Manutenzione: operazioni sicure come svuotare la cache DNS e verificare il disco di avvio, ognuna con una riga di spiegazione e un pulsante Esegui, poi le operazioni avanzate"></td>
+<td width="50%"><img src="assets/readme/it/done.jpg" alt="La pagina mostrata dopo una pulizia: un segno di spunta verde, lo spazio liberato e il link alla Cronologia pulizia"></td>
+</tr>
+<tr>
+<td><strong>Manutenzione, spiegata.</strong> Prima le operazioni sicure, ognuna con una riga su cosa fa. Quelle avanzate solo se le chiedi.</td>
+<td><strong>Si può annullare.</strong> I file puliti vanno nel Cestino, e Cronologia pulizia li rimette dov'erano.</td>
+</tr>
+</table>
+
+## Nella barra dei menu
+
+<p align="center">
+  <img src="assets/readme/it/menu-bar.jpg" width="920" alt="Quattro pannelli di Mac Mop nella barra dei menu, affiancati: il pannello principale con i consigli e la panoramica del Mac, il pannello CPU con uso e core, il pannello memoria con la pressione e i processi principali, il pannello batteria con salute e numero di cicli">
+</p>
+
+Mac Mop vive anche nella barra dei menu, con piccoli elementi che puoi attivare uno per uno in Impostazioni › Barra dei menu.
+
+- **Numeri in diretta nella barra.** Memoria, batteria, velocità di rete e CPU, ognuna come elemento a sé, con lo spazio libero su disco accanto al mocio.
+- **Un pannello dietro ognuno.** CPU (uso, carico, barre per ogni core), GPU, memoria (indicatore della pressione, quanta è compressa o su swap), disco (velocità di lettura e scrittura), rete (velocità, latenza, indirizzo locale) e batteria (salute, numero di cicli, temperatura, consumo).
+- **Chi sta usando cosa.** Ogni pannello elenca i processi che usano di più quella risorsa.
+- **Un pannello principale.** Quanto spazio puoi liberare subito in sicurezza, lo stato della protezione, i dischi collegati con il pulsante Espelli e un clic per avviare una pulizia.
+- **Un controllo sugli appunti.** Se copi uno di quei comandi "incollalo nel Terminale", compare un avviso prima che tu lo incolli.
 
 ## Installazione
 
@@ -45,33 +97,18 @@ Richiede macOS 14 Sonoma o successivo su Apple silicon (M1 o successivi). Dà il
 
 ## Cosa fa
 
-<table>
-<tr>
-<td width="50%"><img src="assets/screenshots/it/system-data.png" alt="La pagina Dati di sistema: lo spazio diviso tra macchine virtuali, dati delle app, video degli sfondi, modelli di Apple Intelligence e altro, con la parte recuperabile in sicurezza"></td>
-<td width="50%"><img src="assets/screenshots/it/space-lens.png" alt="Space Lens: una mappa a colori di una cartella in cui le sottocartelle più grandi sono i riquadri più grandi"></td>
-</tr>
-<tr>
-<td><strong>Apre i "Dati di sistema".</strong> Ogni parte è misurata sul tuo Mac e segnata come sicura, da controllare o protetta da macOS. Ogni byte è contato una volta sola, e la scansione successiva mostra cosa è cresciuto.</td>
-<td><strong>Mostra dov'è finito il disco.</strong> Una mappa in diretta di qualsiasi cartella, più file grandi e vecchi, duplicati, snapshot di Time Machine e altro spazio che macOS nasconde.</td>
-</tr>
-<tr>
-<td width="50%"><img src="assets/screenshots/it/malware.png" alt="La pagina Malware dopo una scansione: nessuna minaccia rilevata, con il controllo su 594 regole XProtect di Apple"></td>
-<td width="50%"><img src="assets/screenshots/it/apple-privacy.png" alt="La pagina Privacy Apple: interruttori per la pubblicità personalizzata e la condivisione dei dati di Siri, e lo spazio occupato dai modelli di Apple Intelligence"></td>
-</tr>
-<tr>
-<td><strong>Cerca malware per Mac.</strong> Usa tutte le regole XProtect di Apple già presenti sul tuo Mac (oggi 594), non solo gli hash dei file. Controlla anche cosa parte all'avvio e la cronologia del Terminale, e ti avvisa quando negli appunti c'è un comando da non incollare.</td>
-<td><strong>Ti dà gli interruttori della privacy.</strong> Cosa condividi con Apple per pubblicità e analisi, in una pagina. Cache e cronologia di Safari, Chrome, Brave, Edge, Arc e Firefox, senza toccare password, cookie o estensioni wallet.</td>
-</tr>
-</table>
-
-E il resto del lavoro:
-
-- **Pulizia.** File di sistema inutili, cache delle app, log, vecchi installer, allegati di Mail, cache di Xcode e degli strumenti di sviluppo, cartelle di build dei progetti.
-- **App.** Disinstalla un'app con ciò che ha lasciato in giro, e vedi perché ogni file le appartiene. Trova le app che non apri più. Rimuove i file sparsi dagli installer `.pkg`.
-- **Prestazioni.** Elementi di login e processi in background (ciò che disattivi si può riattivare), manutenzione sicura, porte di rete aperte.
-- **Controllo sicurezza.** FileVault, Gatekeeper, firewall e System Integrity Protection, con i passaggi per sistemare ciò che è spento.
-- **Barra dei menu.** CPU, memoria, batteria e rete, ognuna come elemento a sé.
-- **Salute del Mac.** Un punteggio su 100 e le due cose che lo alzerebbero di più.
+| | |
+|---|---|
+| **Pulizia** | File di sistema inutili, cache delle app, log, vecchi installer, allegati di Mail, cache di Xcode e degli strumenti di sviluppo, cartelle di build dei progetti. Ogni categoria ha un'etichetta e una descrizione semplice. |
+| **Dati di sistema** | La voce che macOS non spiega mai, divisa nelle sue parti e misurata sul tuo Mac. |
+| **Space Lens** | Mappa del disco in diretta, file grandi e vecchi, duplicati (rimossi, oppure trasformati in copie APFS che non occupano spazio in più), snapshot di Time Machine. |
+| **App** | Disinstalla un'app con ciò che ha lasciato in giro, e vedi perché ogni file le appartiene. Trova le app che non apri più. Rimuove i file sparsi dagli installer `.pkg`. |
+| **Malware** | Le regole XProtect di Apple eseguite su richiesta, regole sul comportamento degli stealer di oggi, controllo della cronologia del Terminale, scansione settimanale, quarantena opzionale. |
+| **Controllo sicurezza** | FileVault, Gatekeeper, firewall, System Integrity Protection e altro, con i passaggi per sistemare ciò che è spento. |
+| **Privacy** | Gli interruttori di Apple per pubblicità e analisi, le tracce dei browser, le reti Wi-Fi salvate, i permessi delle app. |
+| **Prestazioni** | Elementi di login e processi in background (ciò che disattivi si può riattivare), operazioni di manutenzione, porte di rete aperte. |
+| **Salute del Mac** | Un punteggio su 100 e le cose che lo alzerebbero di più. |
+| **Barra dei menu** | CPU, GPU, memoria, disco, rete e batteria in diretta, con un pannello per ognuno. |
 
 ## Come protegge i tuoi file
 
@@ -99,7 +136,7 @@ L'avviso sugli appunti legge il testo copiato sul tuo Mac per riconoscere gli at
 
 - **Non blocca il malware prima che parta.** Per farlo serve un permesso che Apple concede ai produttori di software di sicurezza. Mac Mop fa la scansione quando la chiedi e una volta a settimana, sorveglia alcune cartelle e ti dice cosa ha trovato.
 - **Non è ancora notarizzata.** Da qui il passaggio in più alla prima apertura. In alternativa puoi leggere il codice e compilarla da te.
-- **Non velocizza un Mac che sta bene.** Libera spazio e mostra cosa gira in background. Non "libera memoria", perché non serve a niente.
+- **Non rende più veloce un Mac che sta bene.** Libera spazio e mostra cosa gira in background.
 
 ## Lingue
 
@@ -119,6 +156,19 @@ Serve Xcode 26 oppure i Command Line Tools. In [CONTRIBUTING.md](CONTRIBUTING.md
 ## Contribuire
 
 Segnalazioni e pull request sono benvenute. Un'etichetta sbagliata su una categoria ("Sicuro" su qualcosa che non lo è) è il bug più utile che puoi segnalare: [apri una issue](https://github.com/maimorto/mac-mop/issues/new/choose) indicando il percorso.
+
+## Andamento delle stelle
+
+Se Mac Mop ti ha restituito un po' di spazio, una stella aiuta la prossima persona con il disco pieno a trovarla.
+
+<p align="center">
+  <a href="https://star-history.com/#maimorto/mac-mop&Date">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=maimorto/mac-mop&type=Date&theme=dark">
+      <img src="https://api.star-history.com/svg?repos=maimorto/mac-mop&type=Date" width="640" alt="Grafico delle stelle GitHub di maimorto/mac-mop nel tempo">
+    </picture>
+  </a>
+</p>
 
 ## Licenza
 
