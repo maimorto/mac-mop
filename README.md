@@ -10,7 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/maimorto/mac-mop/releases/latest"><img src="assets/readme/download.svg" width="300" alt="Download Mac Mop for Mac. Free, macOS 14 or later, Apple silicon."></a>
+  <a href="https://github.com/maimorto/mac-mop/releases/latest/download/MacMop.dmg"><img src="assets/readme/download.svg" width="380" alt="Download Mac Mop for Mac. Free, macOS 14 or later, Apple silicon."></a><br>
+  <a href="https://github.com/maimorto/mac-mop/releases/latest/download/MacMop.dmg"><strong>Direct download</strong></a> · 16 MB · <a href="https://github.com/maimorto/mac-mop/releases/latest">release notes</a>
 </p>
 
 <p align="center">
@@ -86,7 +87,7 @@ Mac Mop also lives in the menu bar, as small items you can switch on one by one 
 
 ## Install
 
-1. Download `MacMop-<version>.dmg` from the [latest release](https://github.com/maimorto/mac-mop/releases/latest).
+1. [Download `MacMop.dmg`](https://github.com/maimorto/mac-mop/releases/latest/download/MacMop.dmg) (the button above does the same).
 2. Open it and drag Mac Mop into Applications.
 3. Open Mac Mop. It is not notarized by Apple yet, so the first time macOS blocks it: go to System Settings › Privacy & Security, scroll down and click **Open Anyway**.
 
